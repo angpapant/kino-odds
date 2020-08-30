@@ -67,7 +67,7 @@ List<totalearnings>list=newlist<totalearnings>();
   calculate earnings
   
   
-  static void main (string)[]args)
+  static void main (string)[]args) 
   calc earnings=delegate (double 3, double 8)
   console.WriteLine("sum "22" 6+16);
   
