@@ -21,3 +21,54 @@ Kino game playing 20 draws
 Listbox listbox= newlistBox();
 listbox setitems(new[]{"2" "6" "24" "8" "14" "65" "14" "36" "12" "20" "23" "27" "25" "29" "50" "42" "44" "37" 38" "80"}};
 Listbox.draws();
+
+
+
+
+kino game number of draws
+
+Listbox listbox= newlistBox();
+listbox setitems(new[]{"2" "6" "24" "3" "8" "1" "6" "4" "3" "8" "3" "7" "5" "9" "5" "2" "4" "7" 75" "80"}};
+Listbox.numberofdraws(5);
+
+
+
+
+
+list of total earnings
+
+List<totalearnings>list=newlist<totalearnings>();
+  
+  
+  
+  
+  run a draw
+  
+  public delegate double
+  multi ( o  e);
+  static void main (string[]args)
+  
+  { multi vnut=(o,e)=>o*e;
+  
+  consoleWriteline (mult (2,5));
+  }
+  
+ //predicative voolean
+ 
+ odd/even
+ 
+ 
+ 
+ show draw numbers
+ 
+ List<drawnumbers>list=newlist<drawnumbers>();
+  
+  
+  calculate earnings
+  
+  
+  static void main (string)[]args)
+  calc earnings=delegate (double 3, double 8)
+  console.WriteLine("sum "22" 6+16);
+  
+ 
